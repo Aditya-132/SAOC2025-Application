@@ -1,4 +1,4 @@
-# Enhanced SAoC 2025 Project Proposal: D Compiler Performance Regression Publisher
+# SAoC 2025 Project Proposal: D Compiler Performance Regression Publisher
 
 **SAoC 2025 Project Proposal: D Compiler Performance Regression Publisher**
 
