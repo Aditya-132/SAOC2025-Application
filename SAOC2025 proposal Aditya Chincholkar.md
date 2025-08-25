@@ -2,7 +2,7 @@
 
 **SAoC 2025 Project Proposal: D Compiler Performance Regression Publisher**
 
-**Applicant:** Aditya Chincholkar  
+**Applicant:** Aditya Chincholkar Age(21)  
 **GitHub:** [https://github.com/Aditya-132](https://github.com/Aditya-132)  
 **Expected Mentor:** Dennis Korpel  
 **Project Duration:** 4 months (September - December 2025, completing January 14, 2026)  
